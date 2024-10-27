@@ -1,0 +1,7 @@
+Day 1 total walking time(in minutes): 38
+Day 2 total walking time(in minutes): 20
+Day 3 total walking time(in minutes): 150
+Day 4 total walking time(in minutes): 49
+Day 5 total walking time(in minutes): 35
+Day 6 total walking time(in minutes): 27
+Day 7 total walking time(in minutes): 69

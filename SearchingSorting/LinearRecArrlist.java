@@ -1,4 +1,4 @@
-package SearchingSorting;
+// package SearchingSorting;
 import java.util.ArrayList;
 
 public class LinearRecArrlist {

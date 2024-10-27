@@ -1,4 +1,3 @@
-package SearchingSorting;
 import java.util.Arrays;
 
 public class Selectionsort {

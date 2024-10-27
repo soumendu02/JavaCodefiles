@@ -1,4 +1,3 @@
-package SearchingSorting;
 import java.util.Scanner;
 
 class Linearsearch{
@@ -12,6 +11,7 @@ class Linearsearch{
         for (int i = 0; i < arr.length; i++) {
             arr[i]=in.nextInt();
         }
+        in.close();
         System.out.println("ARRAY FOUND AT INDEX"+linearSearch(arr, target));
     }
     static int linearSearch(int[] arr , int target)

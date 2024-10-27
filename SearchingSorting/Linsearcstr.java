@@ -1,4 +1,3 @@
-package SearchingSorting;
 import java.util.*;
 public class Linsearcstr {
     public static void main(String[] args) {
@@ -8,6 +7,7 @@ public class Linsearcstr {
         System.out.println("enter string");
         String str=in.next();
         System.out.println(linsearc(str,target));
+        in.close();
     }
     static boolean linsearc(String str ,char target)
     {
