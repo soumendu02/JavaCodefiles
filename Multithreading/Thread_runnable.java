@@ -9,8 +9,7 @@ public class Thread_runnable {
     }
 }
 class Thread1 implements Runnable{
-    public void run()
-    {
+    public void run(){
         int i = 0;
         while (i < 10000) {
             System.out.println("RUNNING IN THREAD 1");
